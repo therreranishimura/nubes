@@ -1,4 +1,4 @@
-# Nimbos
+# Nimbus
 É um aplicativo Android de previsão do tempo com uma interface simples e moderna.  
 O app exibe informações climáticas atuais e previsões diárias.
 
